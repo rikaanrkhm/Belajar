@@ -4,6 +4,7 @@ class mawar
 	{
 		public $warna = 'merah';
 		public $daun = 'hijau';
+                piblic $akar = 'serabut';
 	}
 	
 $mawar = new mawar;
